@@ -11,7 +11,7 @@ Received the started code and the majority of the code from instructor Gary Alme
 ## Description
 The text editor application allows for the user to use the app like a text editor.  What is special about it is that the application is a Progressive Web Application (PWA).  In simple terms, it means the application can run while off-line or not connected to the server.
 
-Deployment URL - 
+Deployment URL - https://pwa-text-editor-132o.onrender.com
 
 GitHub URL - https://github.com/whougie/pwa-text-editor.git
 
